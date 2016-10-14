@@ -1,0 +1,8 @@
+GAME_ICON ICON "weed.ico"
+FONT_R FONTFILE "migmix-1m-regular.ttf"
+FONT_B FONTFILE "migmix-1m-bold.ttf"
+TEXTURE IMAGE "texture.png"
+WOOD_FORK SOUND "wood_fork.ogg"
+SE_CLOCK  SOUND "clock04.wav"
+SE_GROW   SOUND "shot4.wav"
+SE_SELECT SOUND "select3.wav"
